@@ -1,0 +1,102 @@
+{
+  "hindi": [
+    {
+      "name": "Darbar",
+      "img": "https://i.pinimg.com/474x/f6/35/fd/f635fda7eac6e9315006ecfba15db2b6.jpg",
+      "rating": "4",
+      "id": 1
+    },
+    {
+      "name": "MS Dhoni",
+      "img": "https://i.pinimg.com/236x/d0/66/fb/d066fb8cec1662ef40982b85ca3ac95a--bollywood-posters-bollywood-news.jpg",
+      "rating": "3",
+      "id": 2
+    },
+    {
+      "name": "Fitoor",
+      "img": "https://i.pinimg.com/236x/80/98/b2/8098b279626c58688549a4a9edad8493--bollywood-posters-katrina-kaif.jpg",
+      "rating": "3",
+      "id": 3
+    },
+    {
+      "name": "Kahaan 2",
+      "img": "https://i.pinimg.com/236x/49/67/98/496798451707d17f7d220d12157b1e59--bollywood-posters-movie-posters.jpg",
+      "rating": "4",
+      "id": 4
+    },
+    {
+      "name": "Kaabil",
+      "img": "https://i.pinimg.com/236x/3e/fc/23/3efc2325905c42cad0f029ec499e433e--bollywood-posters-movie-posters.jpg",
+      "rating": "3",
+      "id": 5
+    },
+    {
+      "name": "Dangal",
+      "img": "https://i.pinimg.com/236x/6a/f3/e3/6af3e330be064c9c3a818bb1f40ea2c9--online-video-bollywood-posters.jpg",
+      "rating": "3",
+      "id": 6
+    },
+    {
+      "name": "Darbar",
+      "img": "https://i.pinimg.com/474x/f6/35/fd/f635fda7eac6e9315006ecfba15db2b6.jpg",
+      "rating": "4",
+      "id": 7
+    },
+    {
+      "name": "MS Dhoni",
+      "img": "https://i.pinimg.com/236x/d0/66/fb/d066fb8cec1662ef40982b85ca3ac95a--bollywood-posters-bollywood-news.jpg",
+      "rating": "3",
+      "id": 8
+    },
+    {
+      "name": "Fitoor",
+      "img": "https://i.pinimg.com/236x/80/98/b2/8098b279626c58688549a4a9edad8493--bollywood-posters-katrina-kaif.jpg",
+      "rating": "3",
+      "id": 9
+    },
+    {
+      "name": "Kahaan 2",
+      "img": "https://i.pinimg.com/236x/49/67/98/496798451707d17f7d220d12157b1e59--bollywood-posters-movie-posters.jpg",
+      "rating": "4",
+      "id": 10
+    },
+    {
+      "name": "Kaabil",
+      "img": "https://i.pinimg.com/236x/3e/fc/23/3efc2325905c42cad0f029ec499e433e--bollywood-posters-movie-posters.jpg",
+      "rating": "3",
+      "id": 11
+    },
+    {
+      "name": "Dangal",
+      "img": "https://i.pinimg.com/236x/6a/f3/e3/6af3e330be064c9c3a818bb1f40ea2c9--online-video-bollywood-posters.jpg",
+      "rating": "3",
+      "id": 12
+    }
+  ],
+  "english": [
+    {
+      "name": "Arnhem",
+      "img": "https://i.pinimg.com/236x/5f/d2/54/5fd254790f47dcbba20203307c646dfa.jpg",
+      "rating": "4",
+      "id": 21
+    },
+    {
+      "name": "Commando",
+      "img": "https://i.pinimg.com/236x/56/b3/ca/56b3ca6b7c11aa42fbc130f552358bcf.jpg",
+      "rating": "4",
+      "id": 22
+    },
+    {
+      "name": "No Time To Die",
+      "img": "https://i.pinimg.com/236x/45/8a/ff/458aff72baa0f6cbe35dc1e27ea70127.jpg",
+      "rating": "4",
+      "id": 23
+    },
+    {
+      "name": "Cyboag",
+      "img": "https://i.pinimg.com/236x/5c/e9/40/5ce940adb380d5f9478688a052e81d41.jpg",
+      "rating": "4",
+      "id": 24
+    }
+  ]
+}
